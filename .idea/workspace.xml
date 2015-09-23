@@ -25,10 +25,19 @@
       <file leaf-file-name="motorturn.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/motorturn.java">
           <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
             <state vertical-scroll-proportion="0.37406483">
               <caret line="10" column="44" selection-start-line="10" selection-start-column="44" selection-end-line="10" selection-end-column="44" />
               <folding>
                 <element signature="n#!!doc" expanded="true" />
+=======
+            <state vertical-scroll-proportion="0.17617449">
+              <caret line="7" column="44" selection-start-line="7" selection-start-column="44" selection-end-line="7" selection-end-column="44" />
+              <folding>
+                <element signature="n#!!doc" expanded="true" />
+                <element signature="e#133#134#0" expanded="true" />
+                <element signature="e#184#185#0" expanded="true" />
+>>>>>>> 870e06ee1535a2d32457c6fd581d28a3fe9dc54d
               </folding>
             </state>
           </provider>
@@ -385,6 +394,7 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/src/motorturn.java">
       <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
@@ -407,6 +417,14 @@
           <caret line="10" column="44" selection-start-line="10" selection-start-column="44" selection-end-line="10" selection-end-column="44" />
           <folding>
             <element signature="n#!!doc" expanded="true" />
+=======
+        <state vertical-scroll-proportion="0.17617449">
+          <caret line="7" column="44" selection-start-line="7" selection-start-column="44" selection-end-line="7" selection-end-column="44" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+            <element signature="e#133#134#0" expanded="true" />
+            <element signature="e#184#185#0" expanded="true" />
+>>>>>>> 870e06ee1535a2d32457c6fd581d28a3fe9dc54d
           </folding>
         </state>
       </provider>
